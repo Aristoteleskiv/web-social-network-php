@@ -1,0 +1,42 @@
+errores conocidos:
+
+-- revistar TOOOOODAS las consultas porque me acabo de dar cuenta que no son
+    case sensitive por default, osea, revisar lo que queramos que sea y lo que no
+    Para hacerlo case sensitive 
+    SELECT * FROM `table` WHERE BINARY `column` = 'value'
+    SOBRETODO CON CONTRASEÑAS!!!!!!!!!!!
+
+
+-- modulo publicidad
+-- soporte para graficas
+
+-- en colecciones, calcular bien la profundidad. Ahora calcula cuantas colecciones deriva, pero no
+    esta bien. Son la profundidad maxima, no la "suma de los metros totales bajo el agua"
+     Idea: para no sobrecargar el servidor con calculo de profundidades, que se calcule una sola
+     vez en el modo de creacion de colecciones, cuando pones las referencias lo calcula y lo mete 
+     en ¡ bd
+
+
+-- añadir aceptar terminos al crear la cuenta
+
+
+- crear nivel jerarquico de niveles de usuario
+
+--- revisar y mejorar el apartado sobre nosotros
+
+-- cambiar nombres de todos los php's para que no sean inteligibles por codigo html
+
+
+
+-- añadir que si bajamos el navegador hasta abajo se autocargue más (manteniendo el boton 
+    para que funcione en todos los navegadores)
+
+
+- añadir en las publicaciones otra imagen que sea: videos utiles. para poner videos donde se 
+    explica como resolver lo que estamos resolviendo
+
+- añadir seccion calendario con futuras actualizaciones y dias de publicacion de videos
+- añadir seccion: ejercicios. se elige seccion y se generan ejercicios automaticos de una coleccion. 
+    Para ello añadir en las publicaciones la opcion de poner una solucion final (resultado final)
+
+

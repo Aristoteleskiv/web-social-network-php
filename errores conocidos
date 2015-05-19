@@ -1,0 +1,26 @@
+
+-crear archivos index.php en cada una de las carpetas dentro de p/a/... para que redirijan al index general
+
+
+-añadir 'ejercicios'
+
+-terminar tema de cookies de mantener conectado cuando no sea en local
+-apartado sobre nosotros
+
+-COMPROBAR->restringir a ususarios null y usuarios<nivel3 los formularios y las acciones
+
+-separar codigos javascript en usuarios registrados y no registrados cambiando
+el <header> segun si es null o no y lo mismo para usuarios admin
+
+-actualizar cuando creas un PDF copiado de un video que se copien las estrellas y la respuesta
+
+-redes sociales
+
+-publicacion pertenece a colecciones...
+
+
+CONSIDERACIONES CUANDO SE SUBA A SERVIDOR
+
+-en la base de datos crear y eliminar 100 grupos para que se queden reservados
+los primeros 100ids para grupos especiales.
+-probar mail en recuperar password y confirmacion de email
